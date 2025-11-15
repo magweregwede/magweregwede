@@ -15,21 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magweregwede&show_icons=true&theme=tokyonight)
-<h1 align="center">Hi, I'm Magwere Gwede 👋</h1>
-
-<p align="center">
-  Passionate developer who loves building clean, useful, and meaningful software.
-</p>
-
----
-
-## 🚀 About Me
-- 🔧 I enjoy working with modern frameworks & backend systems  
-- 📚 Always learning something new  
-- 💡 Love solving real-world problems through code  
-- 🤝 Open to collaboration  
-
 ---
 
 ## 📊 GitHub Stats
