@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: *add when ready*  
 - 💬 Feel free to reach out about any project or collaboration!
 
 ---
